@@ -1,12 +1,15 @@
 # Node
+02-essentials/.angular
 02-essentials/node_modules
 02-essentials/npm-debug.log
 02-essentials/yarn-error.log
 
+03-essentials-modules/.angular
 03-essentials-modules/node_modules
 03-essentials-modules/npm-debug.log
 03-essentials-modules/yarn-error.log
 
+04-essentials-practice/.angular
 04-essentials-practice/node_modules
 04-essentials-practice/npm-debug.log
 04-essentials-practice/yarn-error.log
