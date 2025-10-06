@@ -1,4 +1,17 @@
 # Node
-01-starting-project/node_modules
-01-starting-project/npm-debug.log
-01-starting-project/yarn-error.log
+02-essentials/node_modules
+02-essentials/npm-debug.log
+02-essentials/yarn-error.log
+
+03-essentials-modules/node_modules
+03-essentials-modules/npm-debug.log
+03-essentials-modules/yarn-error.log
+
+04-essentials-practice/node_modules
+04-essentials-practice/npm-debug.log
+04-essentials-practice/yarn-error.log
+
+06-components-deep-dive/.angular
+06-components-deep-dive/node_modules
+06-components-deep-dive/npm-debug.log
+06-components-deep-dive/yarn-error.log

@@ -1,0 +1,9 @@
+<article>
+    <header>
+        <img [src]="imagePath()" [alt]="imageAlt()" />
+        <h2>{{ title() }}</h2>
+    </header>
+    <div id="dashboard-content">
+        <ng-content />
+    </div>
+</article>
