@@ -18,3 +18,13 @@
 06-components-deep-dive/node_modules
 06-components-deep-dive/npm-debug.log
 06-components-deep-dive/yarn-error.log
+
+06-components-deep-dive-two-way-bindings/.angular
+06-components-deep-dive-two-way-bindings/node_modules
+06-components-deep-dive-two-way-bindings/npm-debug.log
+06-components-deep-dive-two-way-bindings/yarn-error.log
+
+14-routing/.angular
+14-routing/node_modules
+14-routing/npm-debug.log
+14-routing/yarn-error.log
